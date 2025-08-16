@@ -28,4 +28,4 @@ else:
 	print("Wiping mouth with towel.")
 
 
-    brush_teeth()
+    mbrush_teeth()
